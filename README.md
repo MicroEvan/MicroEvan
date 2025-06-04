@@ -38,7 +38,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="https://initdevs.netlify.app/">Initdevs Website</a></li>
+<li><a target="_blank" href="https://devs.yalunaictsolutions.com">Initdevs Website</a></li>
 <li><a target="_blank" href="https://test-your-memory.vercel.app/">Memory Test Game</a></li>
 <li><a target="_blank" href="https://citytime-ec61a06295fa.herokuapp.com/">City Time</a></li>
 <h2>⚡️ Where to find me</h2>
